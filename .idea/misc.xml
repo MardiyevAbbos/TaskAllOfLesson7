@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/button_borders.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/button_circle.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/button_dashed.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/button_gradient.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/button_gradient_rotate.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/button_rounded.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/edittext_border_color.xml" value="0.2203125" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/edittext_border_style.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/edittext_buttom_border.xml" value="0.2203125" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/edittext_rounded_corners_border.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/drawable/image_circle_border.xml" value="0.2169230769230769" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/layout/activity_edit_function.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/layout/activity_registration.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/DemoB12Java/app/src/main/res/layout/activity_shape_uiactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/activity_edit_function.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/activity_hashtag.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/activity_pager_uiactivity.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/activity_registration.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/activity_shape_uiactivity.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/activity_web_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/PDPAndroidProjects/AndroidBeginner/Lesson07/TasksOfLesson07(Java)/app/src/main/res/layout/item_layout_pager_view.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

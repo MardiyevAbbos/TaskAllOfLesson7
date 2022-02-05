@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ShapeUIActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            android:hint="Write something here"
+            android:textSize="25sp"
+            android:layout_gravity="top|center_horizontal" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+            android:hint="Write something here"
+            android:background="@drawable/edittext_bottom_border"
+            android:textSize="25sp"
+            android:layout_gravity="top|center_horizontal" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+            android:hint="Write something here"
+            android:background="@drawable/edittext_border_color"
+            android:textSize="25sp"
+            android:layout_gravity="top|center_horizontal" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+            android:hint="Write something here"
+            android:background="@drawable/edittext_border_style"
+            android:textSize="25sp"
+            android:layout_gravity="top|center_horizontal" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="10dp"
+            android:hint="Write something here"
+            android:background="@drawable/edittext_rounded_corners_border"
+            android:textSize="25sp"
+            android:layout_gravity="top|center_horizontal" />
+
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="50dp"
+            android:background="#833AB4"
+            android:text="Click Me"
+            app:backgroundTint = "@null"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_gradient"
+            android:text="Click Me"
+            app:backgroundTint = "@null"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_rounded"
+            android:text="Click Me"
+            app:backgroundTint = "@null"/>
+
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_circle"
+            android:text="Click Me"
+            app:backgroundTint = "@null"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_borders"
+            android:text="Click Me"
+            app:backgroundTint = "@null"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_dashed"
+            android:text="Click Me"
+            app:backgroundTint = "@null"/>
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_gradient_rotate"
+            android:text="Click Me"
+            app:backgroundTint = "@null"/>
+
+
+        <RelativeLayout
+            android:layout_width="106dp"
+            android:layout_height="106dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/image_circle_border">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                app:cardCornerRadius="50dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi"/>
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="106dp"
+            android:layout_height="106dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:padding="5dp"
+            android:layout_marginTop="20dp"
+            app:strokeWidth="3dp"
+            app:strokeColor="#1AD3C1"
+            app:shapeAppearanceOverlay="@style/circle"
+            android:src="@drawable/messi"/>
+
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="106dp"
+            android:layout_height="106dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:padding="5dp"
+            android:layout_marginTop="20dp"
+            app:strokeWidth="3dp"
+            app:strokeColor="#1FEC28"
+            app:shapeAppearanceOverlay="@style/rounded_corner"
+            android:src="@drawable/messi"/>
+
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="106dp"
+            android:layout_height="106dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:padding="5dp"
+            android:layout_marginTop="20dp"
+            app:strokeWidth="3dp"
+            app:strokeColor="#F1DC23"
+            app:shapeAppearanceOverlay="@style/cut_corner"
+            android:src="@drawable/messi"/>
+
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="106dp"
+            android:layout_height="106dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:padding="5dp"
+            android:layout_marginTop="20dp"
+            app:strokeWidth="3dp"
+            app:strokeColor="#E13D0A"
+            app:shapeAppearanceOverlay="@style/specific_rounded_corner"
+            android:src="@drawable/messi"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

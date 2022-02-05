@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".activity.MainActivity">
+
+    <Button
+        android:id="@+id/open_shapeUI"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="shape ui"/>
+
+    <Button
+        android:id="@+id/open_registration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Registration"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/open_textWatcher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="text watcher"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/open_pagerRV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pager RV"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/open_hashtag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HashTag"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
